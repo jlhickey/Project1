@@ -20,7 +20,7 @@ Our motivation for this app, was to have one less decision to make. Let technolo
 
 ## Website:https://askarrizvi.github.io/project1/ 
 
-## The Power Point presentation: PixaRadar.pptx
+## The Power Point presentation: PixaRadar.pdf
 
 
 ## Contribution
